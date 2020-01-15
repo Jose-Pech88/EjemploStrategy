@@ -1,0 +1,6 @@
+C:\Users\jose.pech\source\repos\Strategi\Strategi\bin\Debug\Strategi.exe.config
+C:\Users\jose.pech\source\repos\Strategi\Strategi\bin\Debug\Strategi.exe
+C:\Users\jose.pech\source\repos\Strategi\Strategi\bin\Debug\Strategi.pdb
+C:\Users\jose.pech\source\repos\Strategi\Strategi\obj\Debug\Strategi.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\Strategi\Strategi\obj\Debug\Strategi.exe
+C:\Users\jose.pech\source\repos\Strategi\Strategi\obj\Debug\Strategi.pdb

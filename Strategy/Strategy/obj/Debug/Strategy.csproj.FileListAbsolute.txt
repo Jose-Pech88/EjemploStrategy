@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\Strategy\Strategy\obj\Debug\Strategi.exe
+C:\Users\jose.pech\source\repos\Strategy\Strategy\obj\Debug\Strategi.pdb
+C:\Users\jose.pech\source\repos\Strategy\Strategy\bin\Debug\Strategi.exe.config
+C:\Users\jose.pech\source\repos\Strategy\Strategy\bin\Debug\Strategi.exe
+C:\Users\jose.pech\source\repos\Strategy\Strategy\bin\Debug\Strategi.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\bin\Debug\Strategi.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\bin\Debug\Strategi.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\bin\Debug\Strategi.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\obj\Debug\Strategi.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploStrategy\Strategy\Strategy\obj\Debug\Strategi.pdb
